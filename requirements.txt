@@ -1,4 +1,8 @@
-python-telegram-bot==20.3
 pyTelegramBotAPI==4.10.1
 requests
 paramiko
+threading
+time
+datetime
+json
+sys
